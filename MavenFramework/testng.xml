@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Maven Selenium Testng Test">
+    <test name="Page Obejct model Using Maven">
+        <classes>
+            <class name="com.automation.maven.tests.DemoTest">
+                <methods>
+                    <include name="Test1" />
+                     <include name="Test2" />
+                </methods>
+            </class>
+        </classes>
+        </test>
+</suite>

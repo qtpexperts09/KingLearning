@@ -1,0 +1,6 @@
+com\automation\maven\pages\AmazonRegisterationPage.class
+com\automation\maven\resources\TestBaseSetUpClass.class
+com\automation\maven\resources\ReadDataProperty.class
+com\automation\maven\pages\AmazonHomePage.class
+com\automation\maven\tests\ListnerClass.class
+com\automation\maven\tests\DemoTest.class

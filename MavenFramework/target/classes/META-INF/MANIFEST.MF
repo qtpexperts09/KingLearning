@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: Anshika Sinha
+Class-Path: selenium-java-3.13.0.jar selenium-api-3.13.0.jar selenium-
+ chrome-driver-3.13.0.jar selenium-edge-driver-3.13.0.jar selenium-fir
+ efox-driver-3.13.0.jar selenium-ie-driver-3.13.0.jar selenium-opera-d
+ river-3.13.0.jar selenium-remote-driver-3.13.0.jar selenium-safari-dr
+ iver-3.13.0.jar selenium-support-3.13.0.jar byte-buddy-1.8.3.jar comm
+ ons-exec-1.3.jar commons-codec-1.10.jar commons-logging-1.2.jar gson-
+ 2.8.4.jar httpclient-4.5.5.jar httpcore-4.4.9.jar okhttp-3.10.0.jar o
+ kio-1.14.1.jar guava-25.1-jre.jar jsr305-3.0.2.jar checker-qual-2.0.0
+ .jar error_prone_annotations-2.1.3.jar j2objc-annotations-1.1.jar ani
+ mal-sniffer-annotations-1.14.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.App
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Maven Selenium Testng Test]">
+  <test name="Page Obejct model Using Maven(failed)">
+    <classes>
+      <class name="com.automation.maven.tests.DemoTest">
+        <methods>
+          <include name="test2"/>
+          <include name="setUp"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.automation.maven.tests.DemoTest -->
+    </classes>
+  </test> <!-- Page Obejct model Using Maven(failed) -->
+</suite> <!-- Failed suite [Maven Selenium Testng Test] -->
